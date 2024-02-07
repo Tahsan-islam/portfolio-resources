@@ -1,6 +1,4 @@
-h1{
-    color:red;
-}
-h2{
-    color:blue;
+/* nav related style */
+nav{
+    display: flex;
 }
